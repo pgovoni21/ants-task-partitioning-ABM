@@ -13,6 +13,7 @@ The following notebooks describe an agent-based model (ABM) used to demonstrate 
 
 - [setting up the model using an object-oriented Mesa framework, detailing how to run/display the simulation and how to iterate model runs for data collection/visualization](https://nbviewer.org/github/pgovoni21/ants-task-partitioning-ABM/blob/main/ABM.ipynb)
 - [using the iterated data to plot heatmap landscapes, showing the relationship between ant output as well as behavior in relation to different trait combinations](https://nbviewer.org/github/pgovoni21/ants-task-partitioning-ABM/blob/main/landscapes.ipynb)
+- [simulating evolution from generalist to task-partitioned collective behavioral strategies via fitness proportionate (roulette wheel) selection and Gaussian mutation](https://nbviewer.org/github/pgovoni21/ants-task-partitioning-ABM/blob/main/evolution.ipynb)
 - [approximating ant behavior from a deterministic approach, using differential equations to describe ant movement and decision-making](https://nbviewer.org/github/pgovoni21/ants-task-partitioning-ABM/blob/main/deterministic-approx.ipynb)
 
 ## License
