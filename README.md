@@ -20,5 +20,5 @@ The following notebooks describe an agent-based model (ABM) used to demonstrate 
 
 ## License
 
-Copyright © 2021 [Patrick Govoni](https://github.com/pgovoni21). <br />
+Copyright © 2022 [Patrick Govoni](https://github.com/pgovoni21). <br />
 This project is [MIT](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/blob/main/LICENSE) licensed.
