@@ -6,7 +6,7 @@
 **Supervisors:** Piet Van Den Berg & Prof. Tom Wenseleers <br>
 **Affiliation:** Department of Biology, KU Leuven <br>
 **Group:** Lab of Socioecology & Social Evolution <br>
-**Timespan:** 2020-Present
+**Timespan:** 2020-Present (Currently Revising Unpublished Manuscript)
 
 **Abstract:** Social insects owe their widespread success to their ability to efficiently coordinate behavior to carry out complex tasks. Several species of leaf-cutting ants employ an advanced type of labor division referred to as task partitioning, where the foraging task of retrieving leaves as a substrate for their fungal gardens is divided between those that cut and drop leaves from the top of a tree and others that retrieve the leaves back to the nest. How such complex self-organized behavior could evolve is not entirely clear. Here we use an agent-based model to show that task partitioning can in principle evolve based on a minimal set of traits describing indirect communication between individuals through the environment, also known as stigmergy. We demonstrate that partitioned leaf retrieval is favored as tree height increases, where bypassing costly trips up and down the tree becomes significant to colony fitness. The concepts explored could in principle be applied to engineered collective systems to dynamically modulate labor division.
 
