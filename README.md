@@ -2,7 +2,7 @@
 
 ![ABM video](./title_video.gif)
 
-**Authors of Model:** Me, Patrick Govoni & Kin Ho Chan <br>
+**Authors of Model:** Patrick Govoni & Kin Ho Chan <br>
 **Supervisors:** Piet Van Den Berg & Prof. Tom Wenseleers <br>
 **Affiliation:** Department of Biology, KU Leuven <br>
 **Group:** Lab of Socioecology & Social Evolution <br>
